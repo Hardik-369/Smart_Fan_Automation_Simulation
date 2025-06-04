@@ -33,8 +33,6 @@ python src/main.py --input 0
 - **Efficiency**: Non-maximum suppression reduces false positives, and the system is optimized for minimal frame lag.
 - **Lighting Adaptability**: MobileNet-SSD's deep learning approach ensures robustness to varying lighting conditions compared to traditional methods like HOG.
 
-## Demo Visuals
-Screenshots of the simulation showing bounding boxes and fan speed display are available in the `docs/` directory (to be added after testing).
 
 ## Future Extensions
 - **Temperature Sensors**: Integrate sensor data to adjust fan speed based on room temperature.
